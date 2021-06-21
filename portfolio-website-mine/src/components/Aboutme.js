@@ -24,8 +24,6 @@ const Aboutme = (props) => {
 
         </div>
 
-
-
         <ul className="about-me-icon-group"> 
             <ul> 
                 <div className="about-me-icon"> <IoSpeedometerOutline/> </div>
